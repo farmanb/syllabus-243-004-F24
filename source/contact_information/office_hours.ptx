@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<subsection xml:id="office_hours">
+  <title>Office Hours</title>
+  <p component="F25">
+    <dl>
+      <li>
+	<title>Mon/Wed/Fri</title>
+	<p>1:00 <init>PM</init> <ndash/> 2:00 <init>PM</init></p>
+	<p>3:15 <init>PM</init> <ndash/> 4:15 <init>PM</init></p>
+      </li>
+    </dl>
+  </p>
+  <p component="S25">
+    <dl>
+      <li>
+	<title>Mon/Wed/Fri</title>
+	<p>10:00 <init>AM</init> <ndash/> 11:00 <init>AM</init></p>
+	<p>1:00 <init>PM</init> <ndash/> 3:20 <init>PM</init></p>
+      </li>
+    </dl>
+  </p>
+  <p component="W25">
+    <dl>
+      <li>
+	<title>Mon/Wed/Fri</title>
+	<p>12:30 <init>PM</init> <ndash/> 3:00 <init>PM</init></p>
+      </li>
+      <li>
+	<title>Tues/Thurs</title>
+	<p> 1:00 <init>PM</init> <ndash/> 2:15 <init>PM</init></p>
+      </li>
+    </dl>
+  </p>
+  <p component="F24">
+    <dl>
+      <li>
+	<title>Mon/Wed/Fri</title>
+	<p>12:30 <init>PM</init> <ndash/> 3:00 <init>PM</init></p>
+      </li>
+      <li>
+	<title>Tues/Thurs</title>
+	<p> 1:00 <init>PM</init> <ndash/> 2:15 <init>PM</init></p>
+      </li>
+    </dl>
+  </p>
+</subsection>

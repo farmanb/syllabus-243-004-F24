@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<publication>
+    <!-- directories are relative to the main source PreTeXt file -->
+    <source>
+      <directories external="../assets" generated="../generated-assets"/>
+
+      <!-- Version flags -->
+      <!-- MBG - Mastery Based Grading -->
+      <!-- MBT - Mastery Based Testing -->
+      <!-- AL - Active Learning -->
+
+      <!-- Calculus 3-->
+      <version include="243 F24 WAG 243-F24 AS"/>
+    </source>
+    
+    <latex print="no" sides="one" font-size="10" draft="no">
+      <page right-alignment="flush" bottom-alignment="ragged">
+	<geometry>margin={1in}</geometry>
+      </page>
+    </latex>
+
+    <html favicon="simple">
+      <css theme="denver" color-main="#003087"/> <!-- Tech blue main color -->
+    </html>
+</publication>
