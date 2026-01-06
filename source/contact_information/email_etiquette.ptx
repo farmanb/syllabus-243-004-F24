@@ -13,21 +13,6 @@
 	<p>
 	  A few words that describe the content of your email along with the course identifier (Math &courseno; <ndash/> &sectionno;)
 	</p>
-	<!-- <p component="4083"> -->
-	<!--   A few words that describe the content of your email along with the course identifier (Math 4083 - 001). -->
-	<!-- </p> -->
-	<!-- <p component="490"> -->
-	<!--   A few words that describe the content of your email along with the course identifier (Math 490 - 002). -->
-	<!-- </p> -->
-	<!-- <p component="587"> -->
-	<!--   A few words that describe the content of your email along with the course identifier (Math 587 - 001). -->
-	<!-- </p> -->
-	<!-- <p component="W25"> -->
-	<!--   A few words that describe the content of your email along with the course identifier (Math 308 - 001). -->
-	<!-- </p> -->
-	<!-- <p component="F24"> -->
-	<!--   A few words that describe the content of your email along with the course identifier (Math 243 - 004). -->
-	<!-- </p> -->
       </li>
       <li>
 	<title>Salutation</title>
@@ -68,22 +53,6 @@
     <p>
       Subject: Meeting - Math &courseno; <ndash/> &sectionno;
     </p>
-    <!-- <p component="4083"> -->
-    <!--   Subject: Meeting - Math 4083 - 001 -->
-    <!-- </p> -->
-    <!-- <p component="490"> -->
-    <!--   Subject: Meeting - Math 490 - 002 -->
-    <!-- </p> -->
-    <!-- <p component="587"> -->
-    <!--   Subject: Meeting - Math 587 - 001 -->
-    <!-- </p> -->
-    <!-- <p component="W25"> -->
-    <!--   Subject: Meeting - Math 308 - 001 -->
-    <!-- </p> -->
-    <!-- <p component="F24"> -->
-    <!--   Subject: Meeting - Math 243 - 004 -->
-    <!-- </p> -->
-
     <p>Dear <abbr>Dr.</abbr> Farman,</p>
 
     <p>

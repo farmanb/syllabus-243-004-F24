@@ -2,15 +2,15 @@
 <section xml:id="evaluation" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Evaluation</title>
 
-  <subsection component="WAG" xml:id="exams">
+  <subsection xml:id="exams">
     <title>Exams</title>
 
-    <p component="F24">
+    <p>
       There will be three in-class exams and a cumulative final exam.
       The exams are scheduled as follows:
     </p>
 
-    <assemblage component="F24">
+    <assemblage>
       <tabular halign="center">
 	<row header="yes" bottom="minor" >
 	  <cell>Exam</cell>
@@ -59,7 +59,7 @@
   <subsection xml:id="homework">
     <title>Homework</title>
 
-    <p component="WAG">
+    <p>
       Homework will be assigned regularly.
       The problems are chosen to highlight the core concepts from the material.
       Mastery of these homework sets serves as a good indicator for performance on assessments.
@@ -67,7 +67,7 @@
     </p>
   </subsection>
 
-  <subsection component="243" xml:id="weights">
+  <subsection xml:id="weights">
     <title>Weights</title>
     <p>
       Grades will be calculated using the weights below.
@@ -106,11 +106,11 @@
   <subsection xml:id="grading_scale">
     <title>Grading Scale</title>
 
-    <p component="WAG">
+    <p>
       Letter grades will be assigned based on the scale below.
     </p>
 
-    <assemblage component="WAG">
+    <assemblage>
       <title>Grading Scale</title>
       <tabular halign="center">
 	<row header="yes" bottom="minor" >
